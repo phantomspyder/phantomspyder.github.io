@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to Phantom Spyder's Blog
 ---
 
-This is my blog for disussing latest technology trends.
+Welcome. This is my blog for disussing various intereste of mine which include latest technology trends, software engineering and architecture and more.
