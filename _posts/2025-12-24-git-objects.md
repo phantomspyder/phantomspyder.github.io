@@ -1,5 +1,5 @@
 ---
-title: Git Objects: The Engine of Version Control
+title: "Git Objects: The Engine of Version Control"
 date: 2025-12-24
 ---
 Git’s power comes from how it stores data – through objects. Understanding these core objects is vital to understanding how version control works. Let’s examine the primary types: Blobs, Trees, Commits, and Tags.
