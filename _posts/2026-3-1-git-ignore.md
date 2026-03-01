@@ -1,7 +1,7 @@
 ---
 title: "Understanding .gitignore in a .NET Web App: What It Is, How It Works, and Syntax"
 description: "A practical guide to .gitignore for ASP.NET Core / .NET web apps: what it does, how Git applies rules, and the patterns you actually need."
-date: 2025-3-1
+date: 2026-3-1
 ---
 
 # Understanding `.gitignore` in a .NET Web App
